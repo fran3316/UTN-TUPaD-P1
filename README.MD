@@ -3,8 +3,8 @@
 📍 *Universidad Tecnológica Nacional*  
 
 ## ✨ Estudiante  
-- **Nombre:** Meier, Francisco*  
-- **Comisión:** Comision 8*[Modificar con su comisión, donde 7 es el número de comisión]*  
+- **Nombre:** Meier, Francisco.
+- **Comisión:** Comision 8.  
 
 ## 📂 Descripción del Repositorio  
 Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de **Programación 1**.  
